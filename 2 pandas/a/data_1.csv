@@ -1,0 +1,7 @@
+id,birth,city,age,gender,education,salary,like
+1001,2019-10-01,beijing,33,男,本科,6000.0,sing-apple
+1002,2019-10-02, wuhan,27,男,高中,4000.0,dance-banana
+1003,2019-10-03,shangHai,35,女,本科,5000.0,sing-orange
+1004,2019-10-04,beijing,27,男,本科,7000.0,draw-apple
+1005,2019-10-05,Shanghai,42,女,高中,,dance-orange
+1006,2019-10-06,BEIJING,23,女,本科,3500.0,sing-orange

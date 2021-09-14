@@ -1,0 +1,6 @@
+id,birth,city,age,gender,education,salary,like,height,occupation,married,level,sign,art,fruit
+1001,2019-10-01,beijing,33,男,本科,6000.0,sing-apple,173,程序猿,Y,high,1.0,sing,apple
+1002,2019-10-02, wuhan,27,男,高中,4000.0,dance-banana,170,程序猿,N,low,,dance,banana
+1003,2019-10-03,shangHai,35,女,本科,5000.0,sing-orange,160,测试,N,low,,sing,orange
+1004,2019-10-04,beijing,27,男,本科,7000.0,draw-apple,182,算法工程师,Y,high,1.0,draw,apple
+1005,2019-10-05,Shanghai,42,女,高中,,dance-orange,158,程序媛,Y,low,,dance,orange
